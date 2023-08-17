@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279714765452",
+    "project_id": "myemailauthfirebase",
+    "storage_bucket": "myemailauthfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279714765452:android:6060082ddd495be4d8f9a9",
+        "android_client_info": {
+          "package_name": "com.millenialzdev.firebaseauthemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279714765452-8mssn1f980oba9v9ug5gngb4e12kgo5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4UfULEmYTahYl3UFHqvaYNJpnKAXk_G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279714765452-8mssn1f980oba9v9ug5gngb4e12kgo5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
